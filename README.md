@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1279-prime-arrangements](https://github.com/AN-ai-del/LeetCode/tree/master/1279-prime-arrangements) |
+| [2812-find-the-maximum-achievable-number](https://github.com/AN-ai-del/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
