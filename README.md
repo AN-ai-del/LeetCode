@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/AN-ai-del/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Greedy
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
