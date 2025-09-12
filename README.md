@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/AN-ai-del/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Greedy
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/AN-ai-del/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Array
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
