@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1279-prime-arrangements](https://github.com/AN-ai-del/LeetCode/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/AN-ai-del/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AN-ai-del/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## String
 |  |
 | ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/AN-ai-del/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/AN-ai-del/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
