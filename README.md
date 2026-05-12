@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
+| [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/AN-ai-del/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/AN-ai-del/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Array
