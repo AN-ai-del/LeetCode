@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
 | [1279-prime-arrangements](https://github.com/AN-ai-del/LeetCode/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/AN-ai-del/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AN-ai-del/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
+## Matrix
+|  |
+| ------- |
+| [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
 <!---LeetCode Topics End-->
