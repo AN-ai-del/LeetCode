@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1279-prime-arrangements](https://github.com/AN-ai-del/LeetCode/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/AN-ai-del/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Graph Theory
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
