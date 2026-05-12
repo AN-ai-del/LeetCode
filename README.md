@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
 | [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1544-make-the-string-great](https://github.com/AN-ai-del/LeetCode/tree/master/1544-make-the-string-great) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AN-ai-del/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/AN-ai-del/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -108,6 +110,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
 | [1544-make-the-string-great](https://github.com/AN-ai-del/LeetCode/tree/master/1544-make-the-string-great) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
