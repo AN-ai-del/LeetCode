@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AN-ai-del/LeetCode/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AN-ai-del/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/AN-ai-del/LeetCode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AN-ai-del/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/AN-ai-del/LeetCode/tree/master/0283-move-zeroes) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
 ## Dynamic Programming
