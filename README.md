@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AN-ai-del/LeetCode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
 | [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AN-ai-del/LeetCode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
