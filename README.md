@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AN-ai-del/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
 | [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
 | [1544-make-the-string-great](https://github.com/AN-ai-del/LeetCode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
