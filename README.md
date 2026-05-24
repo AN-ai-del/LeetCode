@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
 | [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
+| [0977-squares-of-a-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/AN-ai-del/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AN-ai-del/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AN-ai-del/LeetCode/tree/master/0283-move-zeroes) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
+| [0977-squares-of-a-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AN-ai-del/LeetCode/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
