@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AN-ai-del/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
 | [1279-prime-arrangements](https://github.com/AN-ai-del/LeetCode/tree/master/1279-prime-arrangements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AN-ai-del/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AN-ai-del/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AN-ai-del/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AN-ai-del/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AN-ai-del/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
