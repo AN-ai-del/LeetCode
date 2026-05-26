@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AN-ai-del/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/AN-ai-del/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AN-ai-del/LeetCode/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AN-ai-del/LeetCode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/AN-ai-del/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AN-ai-del/LeetCode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AN-ai-del/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/AN-ai-del/LeetCode/tree/master/0283-move-zeroes) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AN-ai-del/LeetCode/tree/master/0049-group-anagrams) |
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AN-ai-del/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AN-ai-del/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AN-ai-del/LeetCode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
