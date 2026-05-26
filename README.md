@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AN-ai-del/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AN-ai-del/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0514-freedom-trail](https://github.com/AN-ai-del/LeetCode/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AN-ai-del/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AN-ai-del/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0514-freedom-trail](https://github.com/AN-ai-del/LeetCode/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
