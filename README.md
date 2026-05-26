@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AN-ai-del/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AN-ai-del/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AN-ai-del/LeetCode/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/AN-ai-del/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AN-ai-del/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AN-ai-del/LeetCode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AN-ai-del/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AN-ai-del/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/AN-ai-del/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AN-ai-del/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
