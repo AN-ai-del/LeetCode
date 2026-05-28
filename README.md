@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AN-ai-del/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AN-ai-del/LeetCode/tree/master/0409-longest-palindrome) |
 | [0514-freedom-trail](https://github.com/AN-ai-del/LeetCode/tree/master/0514-freedom-trail) |
+| [0771-jewels-and-stones](https://github.com/AN-ai-del/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/AN-ai-del/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AN-ai-del/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/AN-ai-del/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AN-ai-del/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AN-ai-del/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
