@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AN-ai-del/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AN-ai-del/LeetCode/tree/master/0735-asteroid-collision) |
 | [0782-transform-to-chessboard](https://github.com/AN-ai-del/LeetCode/tree/master/0782-transform-to-chessboard) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AN-ai-del/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AN-ai-del/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AN-ai-del/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AN-ai-del/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AN-ai-del/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AN-ai-del/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AN-ai-del/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
