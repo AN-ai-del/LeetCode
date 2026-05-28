@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AN-ai-del/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0838-push-dominoes](https://github.com/AN-ai-del/LeetCode/tree/master/0838-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/AN-ai-del/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0981-time-based-key-value-store](https://github.com/AN-ai-del/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [0984-string-without-aaa-or-bbb](https://github.com/AN-ai-del/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AN-ai-del/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AN-ai-del/LeetCode/tree/master/1544-make-the-string-great) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/AN-ai-del/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AN-ai-del/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0981-time-based-key-value-store](https://github.com/AN-ai-del/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/AN-ai-del/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AN-ai-del/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AN-ai-del/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AN-ai-del/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0981-time-based-key-value-store](https://github.com/AN-ai-del/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/AN-ai-del/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/AN-ai-del/LeetCode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
