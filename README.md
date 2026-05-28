@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/AN-ai-del/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3093-longest-common-suffix-queries](https://github.com/AN-ai-del/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AN-ai-del/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AN-ai-del/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AN-ai-del/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AN-ai-del/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AN-ai-del/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AN-ai-del/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Graph Theory
 |  |
 | ------- |
